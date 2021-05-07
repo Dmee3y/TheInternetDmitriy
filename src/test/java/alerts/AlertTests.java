@@ -37,6 +37,6 @@ public class AlertTests extends BaseTest {
         String text = "Hi!!!";
         javaScriptAlertsPage.setPromptInput(text);
         javaScriptAlertsPage.acceptPopUp();
-        assertEquals(javaScriptAlertsPage.getResultText(), "You entered: " + text, "Wrong result");
+        assertEquals(javaScriptAlertsPage.getResultText(), "You entered: " + text, "Wrong Result");
     }
 }
