@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="15020" started-at="2021-04-26T12:01:02 MDT" finished-at="2021-04-26T12:01:17 MDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="15020" started-at="2021-04-26T12:01:02 MDT" finished-at="2021-04-26T12:01:17 MDT">
+      <class name="shifting_content.MenuElementsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:shifting_content.MenuElementsTest@754ba872]" name="setUp" is-config="true" duration-ms="2465" started-at="2021-04-26T12:01:13 MDT" finished-at="2021-04-26T12:01:16 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:shifting_content.MenuElementsTest@754ba872]" name="goHome" is-config="true" duration-ms="131" started-at="2021-04-26T12:01:16 MDT" finished-at="2021-04-26T12:01:16 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="testElementsQuantity()[pri:0, instance:shifting_content.MenuElementsTest@754ba872]" name="testElementsQuantity" duration-ms="422" started-at="2021-04-26T12:01:16 MDT" finished-at="2021-04-26T12:01:16 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testElementsQuantity -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:shifting_content.MenuElementsTest@754ba872]" name="tearDown" is-config="true" duration-ms="612" started-at="2021-04-26T12:01:16 MDT" finished-at="2021-04-26T12:01:17 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- shifting_content.MenuElementsTest -->
+      <class name="keys.KeyPressesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:keys.KeyPressesTest@e25b2fe]" name="setUp" is-config="true" duration-ms="2086" started-at="2021-04-26T12:01:10 MDT" finished-at="2021-04-26T12:01:12 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:keys.KeyPressesTest@e25b2fe]" name="goHome" is-config="true" duration-ms="164" started-at="2021-04-26T12:01:12 MDT" finished-at="2021-04-26T12:01:12 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="testBackSpace()[pri:0, instance:keys.KeyPressesTest@e25b2fe]" name="testBackSpace" duration-ms="325" started-at="2021-04-26T12:01:12 MDT" finished-at="2021-04-26T12:01:12 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBackSpace -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:keys.KeyPressesTest@e25b2fe]" name="goHome" is-config="true" duration-ms="138" started-at="2021-04-26T12:01:12 MDT" finished-at="2021-04-26T12:01:12 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="testShortCuts()[pri:0, instance:keys.KeyPressesTest@e25b2fe]" name="testShortCuts" duration-ms="277" started-at="2021-04-26T12:01:12 MDT" finished-at="2021-04-26T12:01:13 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShortCuts -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:keys.KeyPressesTest@e25b2fe]" name="tearDown" is-config="true" duration-ms="615" started-at="2021-04-26T12:01:13 MDT" finished-at="2021-04-26T12:01:13 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- keys.KeyPressesTest -->
+      <class name="forgot_password.ForgotPasswordPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:forgot_password.ForgotPasswordPageTest@204f30ec]" name="setUp" is-config="true" duration-ms="2053" started-at="2021-04-26T12:01:06 MDT" finished-at="2021-04-26T12:01:08 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:forgot_password.ForgotPasswordPageTest@204f30ec]" name="goHome" is-config="true" duration-ms="138" started-at="2021-04-26T12:01:08 MDT" finished-at="2021-04-26T12:01:08 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="testForgotPasswordMessage()[pri:0, instance:forgot_password.ForgotPasswordPageTest@204f30ec]" name="testForgotPasswordMessage" duration-ms="623" started-at="2021-04-26T12:01:08 MDT" finished-at="2021-04-26T12:01:09 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPasswordMessage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:forgot_password.ForgotPasswordPageTest@204f30ec]" name="tearDown" is-config="true" duration-ms="620" started-at="2021-04-26T12:01:09 MDT" finished-at="2021-04-26T12:01:10 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- forgot_password.ForgotPasswordPageTest -->
+      <class name="dropdown.DropDownTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dropdown.DropDownTest@77cd7a0]" name="setUp" is-config="true" duration-ms="3082" started-at="2021-04-26T12:01:02 MDT" finished-at="2021-04-26T12:01:05 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:dropdown.DropDownTest@77cd7a0]" name="goHome" is-config="true" duration-ms="123" started-at="2021-04-26T12:01:05 MDT" finished-at="2021-04-26T12:01:05 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="testSelectOption()[pri:0, instance:dropdown.DropDownTest@77cd7a0]" name="testSelectOption" duration-ms="476" started-at="2021-04-26T12:01:05 MDT" finished-at="2021-04-26T12:01:05 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectOption -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dropdown.DropDownTest@77cd7a0]" name="tearDown" is-config="true" duration-ms="634" started-at="2021-04-26T12:01:05 MDT" finished-at="2021-04-26T12:01:06 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dropdown.DropDownTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

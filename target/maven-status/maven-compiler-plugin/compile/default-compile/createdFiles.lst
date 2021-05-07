@@ -1,0 +1,14 @@
+pages\LoginPage.class
+pages\HomePage.class
+pages\HorizontalSliderPage.class
+pages\JavaScriptAlertsPage.class
+pages\SecureAreaPage.class
+pages\HoversPage$PictureCaption.class
+pages\HoversPage.class
+pages\ForgotPasswordPage.class
+pages\ForgotPasswordPage$RetrievePasswordNewPage.class
+pages\FileUploadPage.class
+pages\KeyPressesPage.class
+pages\ShiftContMenuElement.class
+pages\DropDownPage.class
+pages\ShiftingContentPage.class

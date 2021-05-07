@@ -1,0 +1,12 @@
+dropdown\DropDownTest.class
+alerts\AlertTests.class
+base\BaseTestPlus.class
+files_uploads_downloads\FileUploadTests.class
+horizontal_slider\HorizontalSliderTests.class
+login\LoginTests.class
+hover\HoverTests.class
+homework\BaseTestsHW.class
+base\BaseTest.class
+keys\KeyPressesTest.class
+forgot_password\ForgotPasswordPageTest.class
+shifting_content\MenuElementsTest.class
