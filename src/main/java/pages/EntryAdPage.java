@@ -25,5 +25,4 @@ public class EntryAdPage {
     public void closeModalWindow() {
         driver.findElement(modalWindowCloseLink).click();
     }
-
 }
