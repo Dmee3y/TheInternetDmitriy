@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.406 sec
+Tests run: 21, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 91.558 s <<< FAILURE! - in TestSuite
+testMiddleFrameText(frames.NestedFrameTest)  Time elapsed: 1.133 s  <<< FAILURE!
+java.lang.AssertionError: Wrong text expected [MIDDLE] but found []
+	at frames.NestedFrameTest.testMiddleFrameText(NestedFrameTest.java:16)
+
